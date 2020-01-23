@@ -10,4 +10,11 @@
   <null name="requires"/>
   <value name="listACL">Default</value>
   <value name="webappLoad">yes</value>
+  <value name="name">Fibonachi</value>
+  <value name="build"></value>
+  <null name="description"/>
+  <value name="time">2020-01-23 15:52:13 IST</value>
+  <value name="jvm_version">1.8.0_181</value>
+  <value name="publisher">SAG-B50STC2.eur.ad.sag</value>
+  <value name="patch_nums"></value>
 </Values>
